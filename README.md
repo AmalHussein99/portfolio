@@ -1,4 +1,4 @@
 # webdevchallange2protfolio
 ---
-permalink: /index.html
+permalink: /Chal2.html.html
 ---
